@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'fdb20.awardspace.net',
+	'username' => '3823095_palnbg',
+	'password' => '3823095_palnbg',
 	'database' => '3823095_palnbg',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
